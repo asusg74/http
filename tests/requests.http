@@ -1,0 +1,7 @@
+####
+
+GET http://localhost:9999/banners.getAll?id=1 HTTP/1.1
+
+####
+
+GET http://localhost:9999/banners.save?id=0&title=Депозиты с доходом 60/40&content=Вкладывайте депозит в национальной валюте&button=Рассчитать доход&link=https://alif.tj/deposit#ContryYourIncome HTTP/1.1
